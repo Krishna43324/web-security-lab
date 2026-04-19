@@ -71,7 +71,7 @@ I learned that injection attacks can be deadly and expose user data. Application
 4. https://github.com/yogsec/SQL-Injection-Payloads/blob/main/Union_Based_SQLi_Payloads.txt
 5. https://crackstation.net/
 
-## Project Screenshots
+## Project Screenshots or Supporting Files
 ![SQLInjectionEnvironment.png](SQLInjectionEnvironment.png)
 
 
