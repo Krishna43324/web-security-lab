@@ -81,7 +81,7 @@ I learned that injection attacks can be deadly and expose user data. Application
 ![ResponsePacketBeginning.png](ResponsePacketBeginning.png)
 
 
-![FullResponsePacket.png](FullResponsePacket.png)
+![FullResponsePacket](FullResponsePacket)
 
 
 ![MD5HashesOnBurpSuite.png](MD5HashesOnBurpSuite.png)
